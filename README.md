@@ -40,20 +40,3 @@ This is a project wide readme relating to far more than just the attached code
         $ sudo raspi-config
         - follow instructions in the GUI that comes up to give it a new name, suggest VT<x> where x is an incremental number
 
-#TODO to make above true:
-- Fix Pi-Ubuntu internet sharing
-- Fix code Todos
-- Put code on github
-
-#OtherTODS
-- Pi-Bar laptop wifi
-- Check 4 CO2 sensors operating on 1 Pi
-- Iris config
-- Box/Case for ground system
-- Iris-CO2 system configured and update on github
-- install gparted on Bar laptop
-- CO2 box print file
-
-#Wish list
-- Imet-XQ sensor
-- 
